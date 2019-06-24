@@ -1,0 +1,10 @@
+www.zedboard.org1561327240.2684312 acesso permitido 
+metrics.avnet.com1561327240.5577295 acesso negado por DenyTerm 
+cursos.alvarestech.com1561327245.6045291 acesso permitido 
+webmachining.alvarestech.com1561327247.1681385 acesso negado por DenyTerm 
+webmachining.alvarestech.com1561327247.2590868 acesso negado por DenyTerm 
+webmachining.alvarestech.com1561327252.8745189 acesso negado por DenyTerm 
+webmachining.alvarestech.com1561327268.8446953 acesso negado por DenyTerm 
+webmachining.alvarestech.com 1561334545.8948398 acesso negado por DenyTerm 
+webmachining.alvarestech.com 1561334595.223876 acesso negado por DenyTerm 
+webmachining.alvarestech.com 1561334691.3482747 acesso negado por DenyTerm 
